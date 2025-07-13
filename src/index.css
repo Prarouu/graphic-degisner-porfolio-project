@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Apply the font to the entire application */
+:root {
+  font-family: "sa", system-ui, -apple-system, sans-serif;
+  background: #000;
+}
